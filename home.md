@@ -1,8 +1,8 @@
 ---
-title: 主页
+title: home
 description: 欢迎来到我们的知识库。这里收集了各个领域的知识和信息，供您探索学习。
 published: true
-date: 2025-04-11T02:51:16.241Z
+date: 2025-04-11T02:51:17.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T17:31:21.754Z
