@@ -2,11 +2,10 @@
 title: 2FAuth
 description: 一个用于管理双因素身份验证（2FA）账户并生成安全代码的网络应用。
 published: true
-date: 2025-04-09T17:41:29.792Z
-tags: 杂项
+date: 2025-04-15T16:26:41.956Z
+tags: 
 editor: markdown
 dateCreated: 2025-04-09T17:41:27.964Z
-platforms: test
 ---
 
 # 2FAuth
