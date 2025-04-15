@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "行业/采矿业.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "采矿业 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "行业/采矿业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "采矿业 的出链列表"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行业/制造业.md",
+                "file": "行业/采矿业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "制造业 的大纲"
+              "title": "采矿业 的大纲"
             }
           },
           {
@@ -177,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6287485b35cad5d",
+  "active": "22a40b288a0b18f8",
   "lastOpenFiles": [
-    "行业/采矿业.md",
     "行业/制造业.md",
+    "行业/采矿业.md",
     "行业/农、林、牧、渔业.md",
     "行业.md",
     "行业",
