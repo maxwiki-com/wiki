@@ -6,7 +6,7 @@
 .obsidian/workspaces.json
 #.obsidian/core-plugins.json
 #.obsidian/community-plugins.json
-.obsidian/appearance.json
+#.obsidian/appearance.json
 .obsidian/graph.json
 
 # 排除未命名笔记
