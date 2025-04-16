@@ -1,5 +1,12 @@
 # 排除 Obsidian 的工作区设置（包括插件和快捷键配置）
-.obsidian/*
+#.obsidian/*
+# 排除 Obsidian 的工作区设置
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+#.obsidian/core-plugins.json
+#.obsidian/community-plugins.json
+.obsidian/appearance.json
+.obsidian/graph.json
 
 # 排除未命名笔记
 Untitled*
